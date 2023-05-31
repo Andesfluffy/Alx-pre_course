@@ -1,1 +1,1 @@
-git commit -m 'Updated README.md on GitHub.com'
+git pull origin main
